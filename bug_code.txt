@@ -1,0 +1,18 @@
+/* 
+	The following code contains bugs.
+	Your job is to debug the code.
+	Use exception handling, if required.
+
+
+
+
+
+#include<stdio>
+
+int Main()
+{
+	clrscr();
+	int a = 5, b = 0, c
+	a / b = c;
+	printf("%c", c);
+{
